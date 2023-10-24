@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+
+<h1>Curriculum Vitae</h1>
+
+<table>
+    <tr>
+        <th>PERSONAL INFORMATION</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>First name, Surname</th>
+        <td>Sarvesh Prashant Pandit</td>
+    </tr>
+    <tr>
+        <th>Address</th>
+        <td>R-48, 3rd floor, Veena Apartment,<br>Near SD Hospital, Ganesh Nagar,<br>Nagpur City, PIN: 440009<br>Maharashtra, India</td>
+    </tr>
+    <tr>
+        <th>Mobile no.</th>
+        <td>+91-9310687100</td>
+    </tr>
+    <tr>
+        <th>Email id</th>
+        <td>sarveshprashantpandit@gmail.com</td>
+    </tr>
+    <tr>
+        <th>Date & Place of birth</th>
+        <td>17/08/2000 and Nagpur, Maharashtra</td>
+    </tr>
+    <tr>
+        <th>Nationality & Gender</th>
+        <td>Indian & Male</td>
+    </tr>
+
+    <tr>
+        <th>EDUCATIONAL QUALIFICATION</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>06/2018-06/2021</th>
+        <td>
+            Bachelor of Commerce<br>
+            Major: Computer Application<br>
+            University: Rashtrasant Tukadoji Maharaj Nagpur University, Maharashtra, India<br>
+            <a href="https://nagpuruniversity.ac.in/">Visit University</a><br>
+            Subject: Programming in C++, E-commerce and web designing, Environmental studies, Business Economics, Visual Basic programming, Mathematics, Business Law, Core Java, PHP & MYSQL, Cost and Management accounting, computerized accounting using Tally, etc.<br>
+            Score: 8.53 CGPA<br>
+            Date of passing: 25/05/2022
+        </td>
+    </tr>
+    <tr>
+        <th>04/2017-02/2018</th>
+        <td>
+            Higher Secondary Certification Examination, 12th Class<br>
+            Affiliation: Maharashtra State Board of Secondary and Higher Secondary Education, Pune<br>
+            <a href="https://www.mahahsscboard.in/">Visit Board</a><br>
+            Subject: English, Hindi, Mathematics & Statistics, Physics, Chemistry, Electronics and Environment Education.<br>
+            Score: 65.08%<br>
+            Date of Passing: 30/05/2018
+        </td>
+    </tr>
+    <tr>
+        <th>04/2015-03/2016</th>
+        <td>
+            Secondary School Examination, 10th Class<br>
+            Affiliation: Central Board of Secondary Education, Delhi, India<br>
+            <a href="https://www.cbse.gov.in/">Visit Board</a><br>
+            Subject: English, Sanskrit, Mathematics, Science, Social Science<br>
+            Score: 8.2 CGPA<br>
+            Date of Passing: 28/05/2016
+        </td>
+    </tr>
+
+    <tr>
+        <th>WORK EXPERIENCE</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>01.03.2021 – 31.03.2023</th>
+        <td>
+            Deepak Roadways (Packers and Mover Transport Contractor, Nagpur, India<br>
+            Role: Freight Booking and Management Agent<br>
+            Responsibilities:<br>
+            - Works in Family Business of Transportation since the pandemic.<br>
+            - Handled booking of Goods and basic management of cash and finance
+        </td>
+    </tr>
+
+    <tr>
+        <th>LANGUAGE SKILLS</th>
+        <td>29/04/2023 IELTS | Overall Band Score: 7.0 | CEFR Level: C1<br>
+        Listening: 7.0, Speaking: 7.0, Reading: 6.5, Writing: 6.5</td>
+    </tr>
+
+    <tr>
+        <th>COMPUTER SKILLS</th>
+        <td>
+            - Proficient in Ms Excel<br>
+            - Proficient in Ms Word<br>
+            - Proficient in Ms Power Point
+        </td>
+    </tr>
+
+    <tr>
+        <th>HOBBIES</th>
+        <td>
+            - Sports<br>
+            - Writing stories<br>
+            - Listening to Songs and watching movies<br>
+            - Learning new activities
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
